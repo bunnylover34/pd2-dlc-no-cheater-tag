@@ -1,6 +1,7 @@
 How to use:
 
-Put all the files in a folder located in /PAYDAY 2/mods
+Install SuperBLT
+Put all the files in /PAYDAY 2/mods
 
 Enjoy!
 
